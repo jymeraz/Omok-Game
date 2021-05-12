@@ -1,9 +1,3 @@
-/**
- * Name: Janeth Meraz
- * Professor: Yoonsik Cheon
- * Project: Omok Java Project
- */
-
 import org.json.JSONArray;
 import java.util.Scanner;
 import java.net.URL;
