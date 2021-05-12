@@ -1,8 +1,3 @@
-/**
- * Name: Janeth Meraz
- * Professor: Yoonsik Cheon
- * Project: Omok Java Project
- */
 
 /**
  * Class that coordinates the tasks.
