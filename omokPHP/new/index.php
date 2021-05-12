@@ -1,6 +1,4 @@
 <?php 
-// By: Janeth Meraz
-// CS 3360
 
 include '../play/Game.php';
 
