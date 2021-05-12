@@ -1,8 +1,3 @@
-/**
- * Name: Janeth Meraz
- * Professor: Yoonsik Cheon
- * Project: Omok Java Project
- */
 
 import java.io.BufferedReader;
 import java.io.IOException;
