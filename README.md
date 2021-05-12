@@ -1,2 +1,3 @@
 # Omok-Game
-Implementing an Omok Game in multiple programming languages
+
+Implementing an Omok Game in PHP, Dart, Haskell, and Java.
