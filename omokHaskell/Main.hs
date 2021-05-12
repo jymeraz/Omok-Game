@@ -1,8 +1,3 @@
--- Janeth Meraz
--- Course: CS 3360
--- Professor: Dr. Cheon
--- TA: Ivan Gastelum
-
 -- Main module that provides a console-based UI for playing omok game.
 module Main where
   import System.IO
