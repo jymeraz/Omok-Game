@@ -1,8 +1,3 @@
--- Janeth Meraz
--- Course: CS 3360
--- Professor: Dr. Cheon
--- TA: Ivan Gastelum
-
 -- Board module to model an omok board and two players.
 module Board where
 
