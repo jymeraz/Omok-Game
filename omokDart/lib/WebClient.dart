@@ -1,9 +1,3 @@
-/// Name: Janeth Meraz
-/// Course: CS 3360
-/// Professor: Yoonsik Cheon
-/// TA: Ivan Gastelum
-/// Assignment: Omok Dart Project
-
 import 'dart:io';
 import 'package:http/http.dart' as http;
 import 'ResponseParser.dart';
