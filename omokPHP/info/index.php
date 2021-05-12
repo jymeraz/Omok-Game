@@ -1,6 +1,4 @@
 <?php 
-// By: Janeth Meraz
-// CS 3360
 
 define('SIZE',15);
 $strategies = array('Smart' => 'SmartStrategy', 'Random' => 'RandomStrategy');
